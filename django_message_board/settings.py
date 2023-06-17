@@ -70,12 +70,12 @@ DATABASES = {
         #'ENGINE': 'django.db.backends.sqlite3',
         #'NAME': BASE_DIR / 'db.sqlite3',
         'ENGINE': 'django.db.backends.postgresql',
-        'URL': 'postgresql://postgres:ObnWgAz3yH9Zitehdm0B@containers-us-west-93.railway.app:7085/railway',
+        'URL': 'postgresql://postgres:tj3khGEXUc3wbqNm6Q6k@containers-us-west-35.railway.app:7764/railway',
         'NAME': 'railway',
         'USER': 'postgres',
-        'PASSWORD': 'ObnWgAz3yH9Zitehdm0B',
-        'HOST': 'containers-us-west-93.railway.app',
-        'PORT': '7085',
+        'PASSWORD': 'tj3khGEXUc3wbqNm6Q6k',
+        'HOST': 'containers-us-west-35.railway.app',
+        'PORT': '7764',
     }
 }
 
